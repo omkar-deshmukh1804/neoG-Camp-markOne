@@ -33,7 +33,8 @@ Run the file Locally
 
 ```bash
   node index.js
-```
+```!
+
 
 
 ## 🚀 About Me
@@ -42,5 +43,5 @@ Just a curios dev.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1PIHmcStYS_VIkb7GuQDGKmStTL09R7bh/view?usp=drive_link)
+![App Screenshot](https://github.com/omkar-deshmukh1804/neoG-Camp-markOne/assets/58912751/cd34372c-9fe4-4f59-99b2-99979051c8d7)
 
