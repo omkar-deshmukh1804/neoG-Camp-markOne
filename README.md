@@ -33,15 +33,13 @@ Run the file Locally
 
 ```bash
   node index.js
-```!
-
-
+```
 
 ## 🚀 About Me
 Just a curios dev. 
 
 
-## Screenshots
 
-![App Screenshot](https://github.com/omkar-deshmukh1804/neoG-Camp-markOne/assets/58912751/cd34372c-9fe4-4f59-99b2-99979051c8d7)
+## Screenshots
+![Capture](https://github.com/omkar-deshmukh1804/neoG-Camp-markOne/assets/58912751/513281cc-17e6-4d5c-a623-469db3e41a02)
 
